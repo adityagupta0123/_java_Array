@@ -1,8 +1,8 @@
 package Arrays;
 
-//import java.util.Scanner;
+// import java.util.Scanner;
 
-import com.sun.security.jgss.GSSUtil;
+// import com.sun.security.jgss.GSSUtil;
 
 public class DulicateNoSum {
     public static void main(String[]args){
